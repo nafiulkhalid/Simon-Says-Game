@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+    /* background-color: black; */
+}
+h1, h3 {
+    color: white;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.violet{
+    background-color: violet;
+}
+.flash{
+    background-color: black;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px groove whitesmoke;
+    border-radius: 25%;
+    margin: 15px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
